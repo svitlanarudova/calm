@@ -68,9 +68,7 @@ input[type=text],
 input[type=email],
 input[type=tel],
 textarea {
-  -webkit-appearance: none;
-     -moz-appearance: none;
-          appearance: none;
+   appearance: none;
 }
 
 @font-face {
@@ -91,8 +89,7 @@ textarea {
   position: absolute;
   inset-block-start: 0;
   inset-inline-start: 0;
-  -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
   inline-size: 100%;
   block-size: 100%;
 }
@@ -136,8 +133,7 @@ body.menu-open {
 }
 .header__body {
   display: flex;
-  -moz-column-gap: 1.25rem;
-       column-gap: 1.25rem;
+  column-gap: 1.25rem;
   justify-content: space-between;
   min-block-size: 5rem;
   align-items: center;
@@ -168,21 +164,18 @@ body.menu-open {
 .logo img {
   inline-size: 100%;
   block-size: 100%;
-  -o-object-fit: contain;
-     object-fit: contain;
+  object-fit: contain;
 }
 
 .menu__list {
   display: flex;
-  -moz-column-gap: 1.875rem;
-       column-gap: 1.875rem;
+  column-gap: 1.875rem;
   row-gap: 0.3125rem;
   flex-wrap: wrap;
 }
 @media (max-width: 37.5em) {
   .menu__list {
-    -moz-column-gap: 1.25rem;
-         column-gap: 1.25rem;
+    column-gap: 1.25rem;
   }
 }
 .menu__item {
@@ -607,8 +600,7 @@ body.menu-open {
 }
 .post--pic {
   display: flex;
-  -moz-column-gap: 1.25rem;
-       column-gap: 1.25rem;
+  column-gap: 1.25rem;
 }
 @media (max-width: 29.375em) {
   .post--pic {
@@ -622,8 +614,7 @@ body.menu-open {
   flex-direction: row-reverse;
   align-items: center;
   justify-self: center;
-  -moz-column-gap: 0.1875rem;
-       column-gap: 0.1875rem;
+  column-gap: 0.1875rem;
 }
 .view-link::before {
   content: "";
@@ -680,8 +671,7 @@ body.menu-open {
 .nav-footer__list {
   display: flex;
   flex-wrap: wrap;
-  -moz-column-gap: 1.25rem;
-       column-gap: 1.25rem;
+  column-gap: 1.25rem;
   row-gap: 0.625rem;
 }
 @media (any-hover: hover), (pointer: fine) {
@@ -693,8 +683,7 @@ body.menu-open {
 .info-footer__list {
   display: flex;
   flex-wrap: wrap;
-  -moz-column-gap: 1.25rem;
-       column-gap: 1.25rem;
+  column-gap: 1.25rem;
   row-gap: 0.625rem;
 }
 @media (any-hover: hover), (pointer: fine) {
