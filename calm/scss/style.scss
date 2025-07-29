@@ -12,10 +12,6 @@ body {
    font-family: "Georgia", serif;
    line-height: 1.4;
    color: $mainColor;
-
-   &.menu-open {
-      overflow: hidden;
-   }
 }
 
 .wrapper {
