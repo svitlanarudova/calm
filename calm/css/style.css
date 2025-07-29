@@ -99,9 +99,6 @@ body {
   line-height: 1.4;
   color: #45525b;
 }
-body.menu-open {
-  overflow: hidden;
-}
 
 .wrapper {
   display: flex;
