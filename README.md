@@ -1,4 +1,4 @@
-![#4](https://img.shields.io/badge/%234-skyblue) ![Blog](https://img.shields.io/badge/Blog-9DB2BF?style=flat&logoColor=white) ![Self-Coded](https://img.shields.io/badge/Self--Coded-9B59B6?style=flat&logoColor=white) ![No Tutorial](https://img.shields.io/badge/No_Tutorial-E67E22?style=flat&logoColor=white) ![Beginner](https://img.shields.io/badge/Beginner-A8D5BA?style=flat&logoColor=white) [![🔗 Live Preview](https://img.shields.io/badge/🔗_Live_Preview-1f2d5a?style=flat&logoColor=white)](https://bonesmaster88.github.io/calm/calm)
+![#4](https://img.shields.io/badge/%234-skyblue) ![Blog](https://img.shields.io/badge/Blog-9DB2BF?style=flat&logoColor=white) ![Self-Coded](https://img.shields.io/badge/Self--Coded-9B59B6?style=flat&logoColor=white) ![No Tutorial](https://img.shields.io/badge/No_Tutorial-E67E22?style=flat&logoColor=white) ![Beginner](https://img.shields.io/badge/Beginner-A8D5BA?style=flat&logoColor=white) [![🔗 Live Preview](https://img.shields.io/badge/🔗_Live_Preview-1f2d5a?style=flat&logoColor=white)](https://svitlanarudova.github.io/calm/calm)
 
 # 📰 Calm Blog Layout Project
 
